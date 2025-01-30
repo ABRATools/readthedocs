@@ -1,0 +1,14 @@
+services:
+  readthedocs:
+    container_name: build_readthedocs
+    image: readthedocs/build:latest
+    volumes:
+      - .:/docs
+      # - ./build:/docs/build
+    environment:
+      - READTHEDOCS_PROJECT=ABRATools
+      - READTHEDOCS_VERSION=latest
+      - READTHEDOCS_LANGUAGE=en
+      - READTHEDOCS_BUILDER=html
+      - READTHEDOCS_DOCROOT=docs
+      - READTHEDOCS_REPO_URL=
