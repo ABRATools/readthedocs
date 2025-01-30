@@ -9,4 +9,4 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
       - name: Compile ReadTheDocs
-        run: bash -c "cd /srv/readthedocs && make html"
+        run: bash -c "cd /srv/readthedocs && source venv/bin/activate &&  make html"
