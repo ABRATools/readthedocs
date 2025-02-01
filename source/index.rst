@@ -1,17 +1,23 @@
-.. ABRATools Docs documentation master file, created by
-   sphinx-quickstart on Tue Jan 28 05:12:23 2025.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
+============================
 ABRATools documentation
 ============================
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
+.. _index-first-steps:
 
+ABRATools is a set of tools to help you to manage security and compliance in containerized research environments.
+
+* **About Us:**
+  :doc:`About <pages/about>`
+
+* **Starting from scratch:**
+  :doc:`Overview <pages/overview>` |
+  :doc:`Installation <pages/install>`
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+  :hidden:
+  :maxdepth: 1
+  :caption: Contents:
 
+  pages/about
+  pages/overview
+  pages/install

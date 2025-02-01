@@ -1,0 +1,14 @@
+.bd-main .bd-content .bd-article-container {
+    max-width: 100%;  /* default is 60em */
+}
+
+.bd-sidebar {
+    width: 15%;
+}
+
+.bd-container__inner .bd-page-width {
+    width: 100% !important;
+    max-width: 100%;
+}
+
+/* .bd-container .bd-container__inner */
