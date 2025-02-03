@@ -5,3 +5,10 @@
 .bd-sidebar {
     width: 15%;
 }
+
+/* bd-sidebar breakpoint for phone screens */
+@media (max-width: 767px) {
+    .bd-sidebar {
+        width: unset;
+    }
+}
