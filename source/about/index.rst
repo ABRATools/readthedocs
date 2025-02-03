@@ -26,22 +26,22 @@ We are a group of students who are passionate about security and compliance in c
      - Image
      - Description
    * - **A: Anthony Silva**
-     - .. image:: ../_static/img/user.svg
+     - .. image:: /_static/img/user.svg
            :width: 125px
            :align: center
      - This is the description for Header 1.
    * - **B: Brandon Ramirez**
-     - .. image:: ../_static/img/user.svg
+     - .. image:: /_static/img/user.svg
            :width: 125px
            :align: center
      - This is the description for Header 2.
    * - **R: Robert Fleming**
-     - .. image:: ../_static/img/user.svg
+     - .. image:: /_static/img/user.svg
            :width: 125px
            :align: center
      - This is the description for Header 3.
    * - **A: Austin Parkerson**
-     - .. image:: ../_static/img/user.svg
+     - .. image:: /_static/img/user.svg
            :width: 125px
            :align: center
      - This is the description for Header 4.
