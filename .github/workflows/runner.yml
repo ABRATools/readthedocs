@@ -17,4 +17,4 @@ jobs:
         run: |
           cd /srv/readthedocs
           source venv/bin/activate
-          make html | true
+          make html || true
