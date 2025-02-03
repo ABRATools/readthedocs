@@ -10,7 +10,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: copy to /srv/readthedocs
-        run: cp -r $GITHUB_WORKSPACE /srv/readthedocs
+        run: cp -r /srv/readthedocs/actions-runner/readthedocs/readthedocs/readthedocs/* /srv/readthedocs
 
       - name: Compile ReadTheDocs
         run: |

@@ -15,6 +15,7 @@ ABRA serves as a merged security platform solution, combining a security informa
 Our Team
 --------
 | **Team 32 of CS426 Senior Projects**
+
 We are a group of students who are passionate about security and compliance in containerized research environments. We are excited to share our tools with the world and hope that they can help cybersecurity professionals and system administrators in their professional work.
 
 .. list-table::
@@ -96,11 +97,3 @@ Technology We Use
     - `ttyd <https://github.com/tsl0922/ttyd>`_
     - `TigerVNC <https://tigervnc.org/>`_
     - `NoVNC <https://novnc.com/>`_
-
-
-.. toctree::
-  :hidden:
-  :maxdepth: 2
-  :caption: Contents:
-
-  index
