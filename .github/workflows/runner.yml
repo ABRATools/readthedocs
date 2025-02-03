@@ -8,5 +8,12 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+
+      - name: copy to /srv/readthedocs
+        run: cp -r $GITHUB_WORKSPACE /srv/readthedocs
+
       - name: Compile ReadTheDocs
-        run: bash -c "cd /srv/readthedocs && source venv/bin/activate &&  make html"
+        run: |
+          cd /srv/readthedocs
+          source venv/bin/activate
+          make html
