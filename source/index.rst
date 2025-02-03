@@ -7,17 +7,17 @@ ABRATools documentation
 ABRATools is a set of tools to help you to manage security and compliance in containerized research environments.
 
 * **About Us:**
-  :doc:`About <pages/about>`
+  :doc:`About <about/index>`
 
 * **Starting from scratch:**
-  :doc:`Overview <pages/overview>` |
-  :doc:`Installation <pages/install>`
+  :doc:`Overview <setup/overview>` |
+  :doc:`Installation <setup/install>`
 
 .. toctree::
   :hidden:
-  :maxdepth: 1
+  :maxdepth: 2
   :caption: Contents:
 
-  pages/about
-  pages/overview
-  pages/install
+  about/index
+  setup/overview
+  setup/install

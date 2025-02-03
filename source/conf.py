@@ -33,8 +33,16 @@ html_theme = 'pydata_sphinx_theme'
 html_static_path = ['_static']
 html_theme_options = {
   'cssfiles': ['_static/css/custom.css'],
-  'navigation_depth': 2
+  'navigation_depth': 2,
+  'collapse_navigation': False,
+  "secondary_sidebar_items": [],
+#   'sticky_navigation': True,
+#   'breakpoint-page-width': '1000px',
 }
+html_sidebars = {
+   '**': ['globaltoc.html', 'relations.html', 'sourcelink.html', 'searchbox.html'],
+}
+
 html_show_sourcelink=False
 html_copy_source=False
 html_show_sphinx=False
