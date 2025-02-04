@@ -20,11 +20,7 @@ We are a group of students who are passionate about security and compliance in c
 
 .. list-table::
    :widths: 20 20 60
-   :header-rows: 1
 
-   * - Name
-     - Image
-     - Description
    * - **A: Anthony Silva**
      - .. image:: /_static/img/as.jpg
            :width: 125px
@@ -34,12 +30,12 @@ We are a group of students who are passionate about security and compliance in c
      - .. image:: /_static/img/user.svg
            :width: 125px
            :align: center
-     - Mysterious fellow. Likes blue teaming, works in IT. "More people have been to Russia than I have." - Me
+     - Mysterious fellow.
    * - **R: Robert Fleming**
      - .. image:: /_static/img/rf.jpg
            :width: 125px
            :align: center
-     - i just got mogged
+     - A pleasant chap interested in the digimechanics and interleverworkings of the digital world. Positively thrilled! to be here amongst those who are sure to bring about the next great leap in synergistic sysadmin security system administration technology.
    * - **A: Austin Parkerson**
      - .. image:: /_static/img/ap.jpg
            :width: 125px
