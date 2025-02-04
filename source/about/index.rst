@@ -26,25 +26,25 @@ We are a group of students who are passionate about security and compliance in c
      - Image
      - Description
    * - **A: Anthony Silva**
+     - .. image:: /_static/img/as.jpg
+           :width: 125px
+           :align: center
+     - Anthony Silva. Full. Stack. Coder.
+   * - **B: Brandon (Eren) Ramirez**
      - .. image:: /_static/img/user.svg
            :width: 125px
            :align: center
-     - This is the description for Header 1.
-   * - **B: Brandon Ramirez**
-     - .. image:: /_static/img/user.svg
-           :width: 125px
-           :align: center
-     - This is the description for Header 2.
+     - Mysterious fellow. Likes blue teaming, works in IT. "More people have been to Russia than I have." - Me
    * - **R: Robert Fleming**
-     - .. image:: /_static/img/user.svg
+     - .. image:: /_static/img/rf.jpg
            :width: 125px
            :align: center
-     - This is the description for Header 3.
+     - i just got mogged
    * - **A: Austin Parkerson**
-     - .. image:: /_static/img/user.svg
+     - .. image:: /_static/img/ap.jpg
            :width: 125px
            :align: center
-     - This is the description for Header 4.
+     - Austin Parkerson. Don’t know where I am unless I know where I've been.
 
 Our Advisors and Instructors
 ----------------------------
