@@ -23,21 +23,26 @@ We are a group of students who are passionate about security and compliance in c
 
    * - **A: Anthony Silva**
      - .. image:: /_static/img/as.jpg
+           :alt: Image of Anthony Silva
            :width: 125px
            :align: center
      - Anthony Silva. Full. Stack. Coder.
    * - **B: Brandon (Eren) Ramirez**
      - .. image:: /_static/img/br.jpg
+     - .. image:: /_static/img/user.svg
+           :alt: Image of Brandon (Eren) Ramirez
            :width: 125px
            :align: center
      - Hi!! I like to code and make things work. I am a systems administrator and have an interest in security, containers, networking, and web development.
    * - **R: Robert Fleming**
      - .. image:: /_static/img/rf.jpg
+           :alt: Image of Robert Fleming
            :width: 125px
            :align: center
      - A pleasant chap interested in the digimechanics and interleverworkings of the digital world. Positively thrilled! to be here amongst those who are sure to bring about the next great leap in synergistic sysadmin security system administration technology.
    * - **A: Austin Parkerson**
      - .. image:: /_static/img/ap.jpg
+           :alt: Image of Austin Parkerson
            :width: 125px
            :align: center
      - Don’t know where I am unless I know where I've been.
