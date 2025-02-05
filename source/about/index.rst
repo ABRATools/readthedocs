@@ -27,13 +27,12 @@ We are a group of students who are passionate about security and compliance in c
            :width: 125px
            :align: center
      - Anthony Silva. Full. Stack. Coder.
-   * - **B: Brandon (Eren) Ramirez**
+   * - **B: Brandon Ramirez**
      - .. image:: /_static/img/br.jpg
-     - .. image:: /_static/img/user.svg
-           :alt: Image of Brandon (Eren) Ramirez
+           :alt: Image of Brandon Ramirez
            :width: 125px
            :align: center
-     - Hi!! I like to code and make things work. I am a systems administrator and have an interest in security, containers, networking, and web development.
+     - Hi!! I like to code and make things work. I am a systems administrator and have an interest in security, containers, networking, and web development. I prefer the name Eren.
    * - **R: Robert Fleming**
      - .. image:: /_static/img/rf.jpg
            :alt: Image of Robert Fleming
