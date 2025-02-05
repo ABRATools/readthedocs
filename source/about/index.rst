@@ -27,10 +27,10 @@ We are a group of students who are passionate about security and compliance in c
            :align: center
      - Anthony Silva. Full. Stack. Coder.
    * - **B: Brandon (Eren) Ramirez**
-     - .. image:: /_static/img/user.svg
+     - .. image:: /_static/img/br.jpg
            :width: 125px
            :align: center
-     - Mysterious fellow.
+     - Hi!! I like to code and make things work. I am a systems administrator and have an interest in security, containers, networking, and web development.
    * - **R: Robert Fleming**
      - .. image:: /_static/img/rf.jpg
            :width: 125px
@@ -40,7 +40,7 @@ We are a group of students who are passionate about security and compliance in c
      - .. image:: /_static/img/ap.jpg
            :width: 125px
            :align: center
-     - Austin Parkerson. Don’t know where I am unless I know where I've been.
+     - Don’t know where I am unless I know where I've been.
 
 Our Advisors and Instructors
 ----------------------------
@@ -52,6 +52,9 @@ Our Advisors and Instructors
 |
 | Dr. Jay Thom
 |    - **Role:** Faculty Advisor
+|
+| Zachary Estreito
+|    - **Role:** Industry Advisor
 
 Similar Projects
 ----------------
