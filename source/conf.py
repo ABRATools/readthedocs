@@ -46,6 +46,7 @@ html_sidebars = {
 html_show_sourcelink=False
 html_copy_source=False
 html_show_sphinx=False
+pygments_style = 'sphinx'
 
 def setup(app):
     app.add_css_file('css/custom.css')
