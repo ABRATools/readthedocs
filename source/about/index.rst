@@ -46,6 +46,12 @@ We are a group of students who are passionate about security and compliance in c
            :align: center
      - Don’t know where I am unless I know where I've been.
 
+Project Demo Video
+------------------
+.. image:: https://img.youtube.com/vi/90RATPIS_vQ/maxresdefault.jpg
+    :alt: ABRATools Demo Video
+    :target: https://www.youtube.com/watch?v=90RATPIS_vQ
+
 Our Advisors and Instructors
 ----------------------------
 | Dr. David Feil-Seifer
