@@ -48,7 +48,7 @@ We are a group of students who are passionate about security and compliance in c
 
 Project Demo Video
 ------------------
-.. image:: https://img.youtube.com/vi/90RATPIS_vQ/maxresdefault.jpg
+.. image:: /_static/img/abra_thumbnail.png
     :alt: ABRATools Demo Video
     :target: https://www.youtube.com/watch?v=90RATPIS_vQ
 
